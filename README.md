@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on HTML , CSS and JavaScript<br>🌱 I’m currently learning React JS<br>
+🔭 I’m currently working on HTML , CSS , JS and Reactjs<br>🌱 I’m currently getting deep into React <br>
 
 
 # 💻 Tech Stack:
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <a href="https://getbootstrap.com/docs/5.2/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-orginal.svg" alt="Reactjs" height="50" /></a> 
 </div>  
   
 
