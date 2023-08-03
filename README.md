@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on HTML , CSS , JS and Reactjs<br>🌱 I’m currently getting deep into React <br>
+🔭 I’m currently working on HTML , CSS , JS and Reactjs<br>🎯 I’m currently getting deep into React <br>
 
 
 # 💻 Tech Stack:
