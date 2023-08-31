@@ -21,11 +21,11 @@ https://media4.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif?cid=ecf05e47wekmw2qr
 
 
   
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /> Hi, I'm Aref Orumiehei
- ================
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /> Hi, I'm Aref
+=================================
 
- 🆙 Frontend Developer  <img src="https://media0.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=ecf05e47t76ld6cc0vgq2q7ea7bmm4aq7sgqely42iprfbjm&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px" align="center" />
-----------------
+🆙 A Frontend Developer  <img src="https://media0.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=ecf05e47t76ld6cc0vgq2q7ea7bmm4aq7sgqely42iprfbjm&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px" align="center" />
+---------------------------------
 
 
 🚀 Continuing my journey as a junior Frontend developer, embracing challenges and translating ideas into beautifully functional web interfaces.
