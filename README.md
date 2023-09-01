@@ -28,7 +28,7 @@ https://media4.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif?cid=ecf05e47wekmw2qr
 ---------------------------------
 
 
-🚀 Continuing my journey as a junior Frontend developer, embracing challenges and translating ideas into beautifully functional web interfaces.
+🚀 I continue my journey as a Junior Front-end Developer, accepting challenges and translating ideas into highly functional web interfaces.
 
 
 - 👨‍💻 I’m currently working on React JS. <img src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=ecf05e4705d4j20hqi4j1prvr0zvw89vgi262z4x2t30bfhc&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20px" align="center" />
