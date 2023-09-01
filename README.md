@@ -78,18 +78,18 @@ https://media4.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif?cid=ecf05e47wekmw2qr
 <br/>  
 
 ## 💬Connect with me
-
+  
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/build-message%20me-yellow?style=for-the-badge&logo=Gmail&logoColor=white&label=Gmail&labelColor=black" />](mailto:areforumiehei@gmail.com)
 
-
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/build-contact%20me-white?style=for-the-badge&logo=linkedin&logoColor=white&label=Linkedin&labelColor=blue" />](https://www.linkedin.com/in/aref-orumiehei-506544268/)
-
+  
 
 <br/>
 
 ----
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-    Made in <img src="https://media1.giphy.com/media/Ihb0QWeZsTsx78I4XC/giphy.gif?cid=ecf05e47k0yckcb58aw64ogalh6w9muvlorxwx027xgdfctv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="30" align="center" alt="Made in" />
+
+<div align="center">
+    Made in <img src="https://media1.giphy.com/media/Ihb0QWeZsTsx78I4XC/giphy.gif?cid=ecf05e47k0yckcb58aw64ogalh6w9muvlorxwx027xgdfctv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="30" align="center" alt="Iran" />
 </div>
 
 
