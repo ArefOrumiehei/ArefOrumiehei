@@ -79,7 +79,7 @@ Here are some ideas to get you started:
   
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/build-message%20me-yellow?style=for-the-badge&logo=Gmail&logoColor=white&label=Gmail&labelColor=black" />](mailto:areforumiehei@gmail.com)
 
-[<img align="left" alt="linkedin" src="https://img.shields.io/badge/build-contact%20me-white?style=for-the-badge&logo=linkedin&logoColor=white&label=Linkedin&labelColor=blue" />](https://www.linkedin.com/in/aref-orumiehei-506544268/)
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/build-contact%20me-white?style=for-the-badge&logo=linkedin&logoColor=white&label=Linkedin&labelColor=blue" />](https://www.linkedin.com/in/aref-orumiehei)
   
 
 <br/>
