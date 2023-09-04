@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 I’m currently working on React JS. <img src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=ecf05e4705d4j20hqi4j1prvr0zvw89vgi262z4x2t30bfhc&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20px" align="center" />
   
-- 🎯 I’m currently and always getting deeper into the Frontend
+- 🎯 I’m currently and always getting deeper into the Frontend concepts
   
 - 🌌 Astronomy and Space lover
 
