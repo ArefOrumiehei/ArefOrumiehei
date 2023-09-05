@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
   
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /> Hi, I'm Aref
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px" /> Hi, I'm Aref
 =================================
 
 🆙 A Frontend Developer  <img src="https://media0.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=ecf05e47t76ld6cc0vgq2q7ea7bmm4aq7sgqely42iprfbjm&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px" align="center" />
@@ -80,7 +80,10 @@ Here are some ideas to get you started:
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/build-message%20me-yellow?style=for-the-badge&logo=Gmail&logoColor=white&label=Gmail&labelColor=black" />](mailto:areforumiehei@gmail.com)
 
 <a href='https://www.linkedin.com/in/aref-orumiehei' target='_blank'><img align="left" alt="linkedin" src="https://img.shields.io/badge/build-contact%20me-white?style=for-the-badge&logo=linkedin&logoColor=white&label=Linkedin&labelColor=blue" /> </a>
-  
+<!--
+<a href="https://linkedin.com/in/aref-orumiehei" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=13930&format=png" alt="aref-orumiehei" hieght="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/aref-orumiehei" target="blank"><img align="center" width="40" src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" alt="aref-orumiehei"/></a> -->
 
 <br/>
 
