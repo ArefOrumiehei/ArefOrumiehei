@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 # 💫 About Me:
 -->
 
+  <!--
+[<img align="left" alt="gmail" src="https://img.shields.io/badge/build-message%20me-yellow?style=for-the-badge&logo=Gmail&logoColor=white&label=Gmail&labelColor=black" />](mailto:areforumiehei@gmail.com)
+
+<a href='https://www.linkedin.com/in/aref-orumiehei' target='_blank'><img align="left" alt="linkedin" src="https://img.shields.io/badge/build-contact%20me-white?style=for-the-badge&logo=linkedin&logoColor=white&label=Linkedin&labelColor=blue" /> </a>
+-->
+
+
 
   
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px" /> Hi, I'm Aref
@@ -45,7 +52,7 @@ Here are some ideas to get you started:
 <div align="left">  
 <a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>
 </div>
@@ -76,18 +83,16 @@ Here are some ideas to get you started:
 <br/>  
 
 ## 💬Connect with me
-  
-[<img align="left" alt="gmail" src="https://img.shields.io/badge/build-message%20me-yellow?style=for-the-badge&logo=Gmail&logoColor=white&label=Gmail&labelColor=black" />](mailto:areforumiehei@gmail.com)
 
-<a href='https://www.linkedin.com/in/aref-orumiehei' target='_blank'><img align="left" alt="linkedin" src="https://img.shields.io/badge/build-contact%20me-white?style=for-the-badge&logo=linkedin&logoColor=white&label=Linkedin&labelColor=blue" /> </a>
-<!--
-<a href="https://linkedin.com/in/aref-orumiehei" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=13930&format=png" alt="aref-orumiehei" hieght="30" width="40" /></a>
+<a href="mailto:areforumiehei@gmail.com" target="blank"><img align="left" height="50" src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" alt="aref-orumiehei"/></a> 
 
-<a href="https://linkedin.com/in/aref-orumiehei" target="blank"><img align="center" width="40" src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" alt="aref-orumiehei"/></a> -->
+<a href="https://linkedin.com/in/aref-orumiehei" target="blank"><img align="left" src="https://img.icons8.com/?size=512&id=13930&format=png" alt="aref-orumiehei" height="50"  /></a>
+
 
 <br/>
+<br/>
 
-----
+-------
 
 <div align="center">
     Made in <img src="https://media1.giphy.com/media/Ihb0QWeZsTsx78I4XC/giphy.gif?cid=ecf05e47k0yckcb58aw64ogalh6w9muvlorxwx027xgdfctv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="30" align="center" alt="Iran" />
