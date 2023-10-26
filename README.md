@@ -91,8 +91,8 @@ Here are some ideas to get you started:
 
 -------
 
-<div align="center">
+<!-- <div align="center">
     Made in <img src="https://media1.giphy.com/media/Ihb0QWeZsTsx78I4XC/giphy.gif?cid=ecf05e47k0yckcb58aw64ogalh6w9muvlorxwx027xgdfctv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="30" align="center" alt="Iran" />
 </div>
-
+-->
 
