@@ -21,8 +21,9 @@ Building interfaces, experimenting with data, and turning ideas into real projec
 ### Data & Programming
 <div align="left">
   <img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+  <!-- <img style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" height="50" /> -->
   <img style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="50" />
-  <img style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="50" />
+  <!-- <img style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="50" /> -->
   <img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
 </div>
 
